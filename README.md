@@ -1,1 +1,1 @@
-My portfolio is a thoughtfully designed showcase of my skills and experiences in Web Development. Built using HTML5 and CSS3, this responsive website seamlessly presents my projects, resume and bio.Do explore my projects, learn about my expertise.
+In short, My portfolio is a thoughtfully designed showcase of my skills and experiences in Web Development. Built using HTML5 and CSS3, this responsive website seamlessly presents my projects, resume and bio. Do explore my projects, learn about my expertise.
